@@ -4,6 +4,15 @@
 
 ## 如何使用
 
+  先导入框架
+
+  ```yaml
+  video_cache_plugin: 
+    git: 
+      url: 'https://github.com/beishicat/video_cache_for_flutter.git'
+  ```
+
+
 1. 开启代理
 
     ```dart
